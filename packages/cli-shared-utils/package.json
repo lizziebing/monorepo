@@ -1,0 +1,25 @@
+{
+  "name": "functions",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "张寒冰 <zhanghanbing@meituan.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cli-shared-utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://r.npm.sankuai.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
